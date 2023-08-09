@@ -1,0 +1,60 @@
+Zookeeper
+
+informacón  de configuración
+Nombrar
+Sincronización distrinuida
+soporte kafka
+
+Kubernetes
+Escalado
+orquesta sólo Infraestrutura
+
+
+
+2cpu y almenos 4 gb de memomria
+
+
+
+
+Obtencion de Concepto por Dominio (Negocio y Proceso)
+
+
+
+
+
+Definición y entendimiento de los datos que viviran en la landing zone (atlas?)
+
+
+
+
+Software como repositorios de datos, esto es, almacenamiento para deposito y consulta de dataset completos, debemos llegar a las dos instalaciones siguientes:
+
+
+
+
+Estimación de recursos
+
+
+
+
+
+
+
+
+
+Desarrollo-Instalacion tipo Prueba de Concepto
+
+
+
+
+
+
+
+
+
+
+
+hadoop
+docker
+vagrant
+yarn
